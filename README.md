@@ -1,6 +1,6 @@
 # Traffic Prediction with Graph Neural Networks
 
-Ein Forschungsprojekt zur Vorhersage von Verkehrsflüssen mit Graph Neural Networks (GNNs) auf den Datensätzen **METR‑LA** und **PEMS‑BAY**.
+Ein Projekt zur Vorhersage von Verkehrsflüssen mit Graph Neural Networks (GNNs) auf den Datensätzen **METR‑LA** und **PEMS‑BAY**.
 
 ## Überblick
 
